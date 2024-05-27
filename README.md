@@ -13,6 +13,7 @@
 
 This project aims to enhance our understanding and prediction of ocean acidification and its impacts on marine environments. We developed various models and conducted statistical analyses to forecast ocean pH levels and carbon dynamics, aiding in proactive environmental conservation strategies.
 
+![state-diagram-carbonates-conditions-oceans-2100](https://github.com/RevanthPadala7976/OceanDynamics/assets/144652523/e729cd1a-2839-44ce-a83a-3d4a5d65cb8f)
 
 ## Features
 
